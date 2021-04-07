@@ -1,0 +1,33 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  surgeon.cpp
+  researcher.cpp
+  patient.cpp
+  main.cpp
+c:\users\edanka\source\repos\hospital\project1\project1\main.cpp(14): warning C4101: 'res1': unreferenced local variable
+c:\users\edanka\source\repos\hospital\project1\project1\main.cpp(14): warning C4101: 'res2': unreferenced local variable
+  initHospital.cpp
+c:\users\edanka\source\repos\hospital\project1\project1\inithospital.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\edanka\source\repos\hospital\project1\project1\inithospital.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\edanka\source\repos\hospital\project1\project1\inithospital.cpp(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\edanka\source\repos\hospital\project1\project1\inithospital.cpp(183): warning C4018: '<': signed/unsigned mismatch
+c:\users\edanka\source\repos\hospital\project1\project1\inithospital.cpp(206): warning C4018: '<': signed/unsigned mismatch
+c:\users\edanka\source\repos\hospital\project1\project1\inithospital.cpp(263): warning C4018: '<': signed/unsigned mismatch
+c:\users\edanka\source\repos\hospital\project1\project1\inithospital.cpp(346): warning C4018: '<': signed/unsigned mismatch
+c:\users\edanka\source\repos\hospital\project1\project1\inithospital.cpp(403): warning C4018: '<': signed/unsigned mismatch
+c:\users\edanka\source\repos\hospital\project1\project1\inithospital.cpp(425): warning C4018: '<': signed/unsigned mismatch
+c:\users\edanka\source\repos\hospital\project1\project1\inithospital.cpp(439): warning C4018: '<': signed/unsigned mismatch
+c:\users\edanka\source\repos\hospital\project1\project1\inithospital.cpp(457): warning C4018: '<': signed/unsigned mismatch
+c:\users\edanka\source\repos\hospital\project1\project1\inithospital.cpp(490): warning C4018: '<': signed/unsigned mismatch
+  exitFunc.cpp
+  Visit.cpp
+  SurgeonResearcher.cpp
+  PatientManager.cpp
+  Nurse.cpp
+  Doctor.cpp
+  Department.cpp
+  Date.cpp
+  Article.cpp
+  Generating Code...
+  LINK : C:\Users\edanka\Source\Repos\hospital\Project1\Project1\Debug\Hospital.exe not found or not built by the last incremental link; performing full link
+  Project1.vcxproj -> C:\Users\edanka\Source\Repos\hospital\Project1\Project1\Debug\Hospital.exe
+  Project1.vcxproj -> C:\Users\edanka\Source\Repos\hospital\Project1\Project1\Debug\Hospital.pdb (Partial PDB)
